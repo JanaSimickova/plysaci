@@ -1,0 +1,11 @@
+.plushy {
+  flex: 0 0 calc(25%);
+}
+
+.plushy__image {
+  max-width: 100%;
+}
+
+.plushy__text {
+  text-align: left;
+}

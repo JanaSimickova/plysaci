@@ -1,3 +1,7 @@
+body {
+  text-align: center;
+}
+
 header {
   display: flex;
   flex-direction: column;
@@ -10,4 +14,9 @@ header {
   height: 10rem;
   background-image: url(../img/rocket.svg);
   background-size: contain;
+}
+
+.titel {
+  font-weight: normal;
+  font-size: 40px;
 }
